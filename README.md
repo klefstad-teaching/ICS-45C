@@ -3,10 +3,11 @@
 ## UCI VPN
 
 1. Go to [UCI VPN](https://uci.service-now.com/sp?id=kb_article_view&sysparm_article=KB0012170) and download the corrosponding client for your operating system.
+2. Open the VPN and login with your UCI NetID account
 
 ## ICS Account
 
-1. Create your ICS Account (This is not the same as your UCI Net Account).
+1. Create your ICS Account (This is **NOT** the same as your UCI NetID Account).
    - You will need to be on campus or use the [VPN](#uci-vpn).
 3. [ICS Account Creation Website](https://support.ics.uci.edu/auth)
 
