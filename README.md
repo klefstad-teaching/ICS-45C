@@ -1,4 +1,4 @@
-# ICS 45C Setup
+# ICS 45C Homework 0
 
 ## UCI VPN
 
