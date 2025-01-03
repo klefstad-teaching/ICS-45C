@@ -1,5 +1,11 @@
 # ICS 45C Homework 0
 
+For this homework we will be setting up some inital accounts and programs. 
+
+1. Set up our VPN. We will need access services that require we are within UCI's network. When we are on campus we will not need to use the VPN but whenever we try to access these services off campus we will be required to use this.
+2. Activate our ICS Account. We need this accont to access the ICS 45C Hub. This is **NOT** the same as our UCI NetID.
+3. Complete a Basic C++ program to show that we have set up our environment.
+
 ## UCI VPN
 
 1. Go to [UCI VPN](https://uci.service-now.com/sp?id=kb_article_view&sysparm_article=KB0012170) and download the corrosponding client for your operating system.
