@@ -4,7 +4,8 @@ For this homework we will be setting up some inital accounts and programs.
 
 1. Set up our VPN. We will need access services that require we are within UCI's network. When we are on campus we will not need to use the VPN but whenever we try to access these services off campus we will be required to use this.
 2. Activate our ICS Account. We need this accont to access the ICS 45C Hub. This is **NOT** the same as our UCI NetID.
-3. Complete a Basic C++ program to show that we have set up our environment.
+3. Login to the ICS 45C Hub. This is where we will be developing all our programs. It is a online editor that includes tools such as Visual Studio.
+4. Complete a Basic C++ program to show that we have set up our environment.
 
 ## VPN
 
